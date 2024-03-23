@@ -15,13 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-- 正在学习C++/MIT 6.824
+- 正在学习Golang语法特性
+- 搁置C++/MIT 6.824
 
 <div align="center">
   <div>
     <img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MrCQH&show_icons=true&theme=radical">
   </div>
+  <a align="center" href="https://go.dev/">
+    <img alt="Golang" src="https://img.shields.io/badge/code-Golang-green">
+  </a>
   <a align="center" href="https://openjdk.org/projects/jdk/21/">
     <img alt="JDK 21" src="https://img.shields.io/badge/code-JDK%2021-blue">
   </a>
