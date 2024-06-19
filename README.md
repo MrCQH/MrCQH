@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 正在学习Golang语法特性
-- 搁置C++/MIT 6.824
+- 正在学习Golang语言特性
+- 正在学习MIT 6.824
+- C++ 待学习
 
 <div align="center">
   <div>
