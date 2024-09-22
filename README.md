@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 正在学习Golang语言特性
 - 正在学习MIT 6.824
 - C++ 待学习
 
