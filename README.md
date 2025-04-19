@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 正在学习MIT 6.824
-- C++ 待学习
+- Currently in the gaming industry
+- MIT 6.824
+- C++ Leaning
 
 <div align="center">
   <div>
