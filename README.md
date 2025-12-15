@@ -22,9 +22,7 @@ Here are some ideas to get you started:
   <div>
     <img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MrCQH&show_icons=true&theme=radical">
   </div>
-  <a align="center" href="https://go.dev/">
-    <img alt="Golang" src="https://img.shields.io/badge/code-Golang-green">
-  </a>
+  <img alt="Golang" src="https://img.shields.io/badge/code-Golang-green">
   <img alt="" src="https://img.shields.io/badge/探索-AI-blue">
   <img alt="" src="https://img.shields.io/badge/保持-好奇心-yellow">
   <img alt="" src="https://img.shields.io/badge/爱好-Coding-red">
