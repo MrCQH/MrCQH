@@ -25,9 +25,7 @@ Here are some ideas to get you started:
   <a align="center" href="https://go.dev/">
     <img alt="Golang" src="https://img.shields.io/badge/code-Golang-green">
   </a>
-  <a align="center" href="">
-    <img alt="AIer" src="https://img.shields.io/badge/探索-AI-blue">
-  </a>
+  <img alt="" src="https://img.shields.io/badge/探索-AI-blue">
   <img alt="" src="https://img.shields.io/badge/保持-好奇心-yellow">
   <img alt="" src="https://img.shields.io/badge/爱好-Coding-red">
 </div> 
