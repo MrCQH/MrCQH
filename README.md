@@ -26,13 +26,10 @@ Here are some ideas to get you started:
     <img alt="Golang" src="https://img.shields.io/badge/code-Golang-green">
   </a>
   <a align="center" href="https://openjdk.org/projects/jdk/21/">
-    <img alt="JDK 21" src="https://img.shields.io/badge/code-JDK%2021-blue">
+    <img alt="AIer" src="">
   </a>
   <img alt="" src="https://img.shields.io/badge/保持-好奇心-yellow">
   <img alt="" src="https://img.shields.io/badge/爱好-Coding-red">
-  <div>
-    <img alt="Visitor Count" src="https://profile-counter.glitch.me/MrCQH/count.svg">
-  </div>
 </div> 
 
 
