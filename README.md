@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - Currently in the gaming industry
-- MIT 6.824
-- C++ Leaning
+- rust Leaning
 
 <div align="center">
   <div>
