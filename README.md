@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - Currently in the gaming industry
-- rust Leaning
+- AI Agent Engineer
+- claude coder
 
 <div align="center">
   <div>
